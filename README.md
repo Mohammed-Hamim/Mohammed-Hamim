@@ -34,6 +34,8 @@
   <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma" />
 </p>
 
+
+###  **Github Stats**
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammed-hamim&show_icons=true&locale=en&layout=compact" alt="mohammed-hamim" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammed-hamim&show_icons=true&locale=en" alt="mohammed-hamim" /></p>
