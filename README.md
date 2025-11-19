@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.ibb.co/kgCKrGMg/Screenshot-2025-11-19-134713.png" alt="Developer Banner" width="1000" height="600"/>
+  <img src="https://i.ibb.co/kgCKrGMg/Screenshot-2025-11-19-134713.png" alt="Developer Banner" width="1000" />
 </p>
 <h1 align="center">Hi 👋, I'm Mohammed Hamim</h1>
 <h3 align="center">A passionate MERN stack developer from Bangladesh</h3>
