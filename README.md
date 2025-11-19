@@ -1,22 +1,9 @@
  <!-- Banner Image -->
 <p align="center">
-  <img src=" https://i.ibb.co.com/kgCKrGMg/Screenshot-2025-11-19-134713.png" alt="Frontend Developer Banner" width="1000"/>
+  <img src="https://i.ibb.co.com/kgCKrGMg/Screenshot-2025-11-19-134713.png" alt="Developer Banner" width="1000"/>
 </p>
-
-
-
-
-
 <h1 align="center">Hi 👋, I'm Mohammed Hamim</h1>
-<h3 align="center">A passionate frontend developer from BD</h3>
-
-
-
-
- 
-
- 
-
+<h3 align="center">A passionate MERN stack developer from Bangladesh</h3>
 
 ## 📩 Connect With Me  
 📧 Email: **mohammedhamim0158@gmail.com**
